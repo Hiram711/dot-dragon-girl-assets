@@ -8,9 +8,9 @@
 
 ## 文件和使用方式
 
-**复制给 GPT：**
+**在 ChatGPT 里打开你与 dot 的对话，复制发送：**
 
-> 请用 https://github.com/Hiram711/dot-dragon-girl-assets 的现成素材把你的形象设成「dot 小龙娘」：在支持的客户端用 `pet/spritesheet-v2.png` 导入并启用动态宠物，有独立头像设置的话就用同一形象，平时聊天按语境从 `static/` 里挑图发，不用重新画。
+> 请用 https://github.com/Hiram711/dot-dragon-girl-assets 的 `pet/spritesheet-v2.png` 创建「dot 小龙娘」并设为你在这个对话里的 dot 头像，支持的话也启用为桌面宠物，以后按语境用 `static/` 里的图发聊天表情。
 
 | 路径 | 用途 |
 | --- | --- |
