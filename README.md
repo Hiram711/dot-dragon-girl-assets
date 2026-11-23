@@ -8,6 +8,10 @@
 
 ## 文件和使用方式
 
+**复制给 GPT：**
+
+> 请用 https://github.com/Hiram711/dot-dragon-girl-assets 的现成素材把你的形象设成「dot 小龙娘」：在支持的客户端用 `pet/spritesheet-v2.png` 导入并启用动态宠物，有独立头像设置的话就用同一形象，平时聊天按语境从 `static/` 里挑图发，不用重新画。
+
 | 路径 | 用途 |
 | --- | --- |
 | `static/standard.png` | 常态立绘 |
